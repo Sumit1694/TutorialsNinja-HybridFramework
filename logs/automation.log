@@ -487,3 +487,20 @@
 2026-01-31 19:27:41 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
 2026-01-31 19:27:41 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
 2026-01-31 19:27:45 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 22:02:21 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 22:02:29 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 22:02:31 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+2026-01-31 22:02:53 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 22:02:58 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 22:02:58 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 22:02:59 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 22:02:59 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 22:03:02 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 22:03:04 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
