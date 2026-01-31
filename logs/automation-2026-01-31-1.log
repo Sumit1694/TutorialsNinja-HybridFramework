@@ -1,0 +1,604 @@
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:25 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-980749088\testng-customsuite.xml
+
+2026-01-31 01:28:25 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-01-31 01:28:30 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:28:30 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:28:30 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:28:31 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:28:31 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:28:33 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:28:33 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:28:33 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42fcc7e6: 87 ms
+2026-01-31 01:28:33 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@78830d9a: 2 ms
+2026-01-31 01:28:34 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3daa82be: 9 ms
+2026-01-31 01:28:34 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ff95fc6: 8 ms
+2026-01-31 01:28:34 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7965a51c: 6 ms
+2026-01-31 01:28:34 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eee3e2b: 0 ms
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:28:59 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--187672024\testng-customsuite.xml
+
+2026-01-31 01:28:59 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-01-31 01:29:03 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:29:03 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:29:04 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:29:05 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:29:05 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:29:07 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:29:07 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42fcc7e6: 143 ms
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@78830d9a: 6 ms
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3daa82be: 33 ms
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ff95fc6: 10 ms
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7965a51c: 8 ms
+2026-01-31 01:29:07 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eee3e2b: 0 ms
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 29 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 01:31:28 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-73235347\testng-customsuite.xml
+
+2026-01-31 01:31:28 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 25 ms.
+2026-01-31 01:31:38 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:31:38 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:31:38 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:31:40 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:31:40 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:31:42 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:31:42 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4a0df195: 84 ms
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5da7cee2: 1 ms
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@21fdfefc: 11 ms
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@27d57a2c: 5 ms
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@486bc9a4: 10 ms
+2026-01-31 01:31:43 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7965a51c: 0 ms
+2026-01-31 01:40:10 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 01:40:15 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:40:15 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:40:15 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:40:17 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:40:17 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:40:19 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:40:19 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:40:31 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 01:40:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:40:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:40:40 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:40:41 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:40:41 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:40:42 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:40:42 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:43:32 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 01:43:37 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:43:37 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:43:38 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:43:39 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:43:39 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:43:40 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:43:40 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:43:46 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:43:46 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:43:46 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:43:47 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:43:47 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:43:49 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:43:49 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:43:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:43:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:43:57 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:43:58 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:43:58 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:43:59 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:43:59 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:44:33 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 01:44:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:44:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:44:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:44:40 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:44:41 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:44:41 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:44:44 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:44:44 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:44:44 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:44:44 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:44:52 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:44:52 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:44:52 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:44:52 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:44:59 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:44:59 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:44:59 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:45:00 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:45:00 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:45:06 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:45:06 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 01:51:05 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 01:51:12 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 01:51:12 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 01:51:12 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 01:51:13 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 01:51:13 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 01:51:15 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 01:51:15 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 02:10:11 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 02:10:21 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 02:10:23 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+2026-01-31 02:51:10 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 02:51:24 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:51:25 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:51:25 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:51:26 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:51:26 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 02:52:54 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse--1632045184\testng-customsuite.xml
+
+2026-01-31 02:52:54 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-01-31 02:52:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@258ee7de: 78 ms
+2026-01-31 02:52:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@545e57d7: 29 ms
+2026-01-31 02:52:56 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@de88ac6: 24 ms
+2026-01-31 02:52:56 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6ae7deac: 17 ms
+2026-01-31 02:52:56 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5c0f79f0: 9 ms
+2026-01-31 02:52:56 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21fdfefc: 0 ms
+2026-01-31 02:53:03 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 02:53:11 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:53:14 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 02:53:14 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:53:25 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 02:53:25 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:53:36 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 02:53:36 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:53:47 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 02:53:47 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 02:53:49 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 03:01:32 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\grouping.xml
+
+2026-01-31 03:02:01 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\grouping.xml
+
+2026-01-31 03:02:35 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\grouping.xml
+
+2026-01-31 03:02:42 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 03:02:42 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 03:02:43 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 03:02:44 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 03:02:44 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 03:02:47 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 03:02:47 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 03:36:57 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 03:37:02 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 03:37:04 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+2026-01-31 03:37:47 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 03:37:57 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 03:40:26 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 03:40:30 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 03:41:20 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 03:41:26 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 12:24:49 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 12:24:57 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 12:27:10 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 12:27:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:27:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:27:11 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 12:27:11 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 12:27:13 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:27:13 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:27:13 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:27:13 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:27:13 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:27:59 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 12:28:00 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:28:00 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:28:00 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 12:28:00 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 12:28:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:28:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:28:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:28:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:28:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:32:23 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 12:32:30 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:32:30 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:32:31 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 12:32:32 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 12:32:32 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 12:32:37 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 12:32:37 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 12:32:41 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 12:33:00 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:33:04 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 12:33:04 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:33:16 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 12:33:16 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:33:28 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 12:33:28 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:33:40 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 12:33:40 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 12:33:42 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 12:38:23 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 12:38:31 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:38:31 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:38:31 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:38:31 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:38:31 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 12:38:32 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 12:38:38 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 12:38:38 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 12:38:39 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 12:38:40 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 12:38:40 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 12:38:42 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 12:38:42 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 12:38:52 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 17:16:02 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 17:16:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 17:16:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 17:16:12 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 17:16:12 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 17:16:13 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 17:16:13 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 17:16:21 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 17:16:21 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 17:16:21 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 17:16:21 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 17:16:21 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 17:16:24 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 17:16:24 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 17:16:34 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 17:22:49 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 17:28:38 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 17:38:27 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 18:52:24 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 18:52:36 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 18:52:36 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 18:52:36 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 18:52:37 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 18:52:38 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 18:52:39 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 18:52:49 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 18:52:59 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 18:53:22 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 19:06:41 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\crossbrowsertesting.xml
+
+2026-01-31 19:06:54 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 19:06:54 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 19:06:55 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 19:06:55 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 19:06:56 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 19:06:56 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 19:06:56 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 19:06:56 ERROR TC001_AccountRegistrationTest - Test Failed...
+2026-01-31 19:19:59 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 19:19:59 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 19:20:00 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 19:20:02 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 19:20:02 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 19:20:05 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 19:20:08 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 19:20:11 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 19:20:31 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:20:35 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:20:35 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:20:46 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:20:46 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:20:58 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:20:58 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:21:10 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:21:10 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:21:20 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:23:17 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 19:23:17 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 19:23:18 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 19:23:19 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 19:23:19 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 19:23:21 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 19:23:21 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 19:23:25 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 19:23:46 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:23:50 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:23:50 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:24:02 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:24:02 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:24:14 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:24:14 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:24:27 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:24:27 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:24:29 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:26:24 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 19:26:24 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 19:26:25 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 19:26:27 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 19:26:27 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 19:26:31 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 19:26:31 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 19:26:38 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 19:26:59 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:27:05 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:27:05 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:27:18 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:27:18 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:27:30 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:27:30 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:27:41 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 19:27:41 INFO  LoginDDT - ***** Starting TC_003_LoginDDT *****
+2026-01-31 19:27:45 INFO  LoginDDT - ***** Finished TC_003_LoginDDT *****
+2026-01-31 22:02:21 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 22:02:29 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 22:02:31 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+2026-01-31 22:02:53 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-01-31 22:02:57 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-01-31 22:02:58 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-01-31 22:02:58 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-01-31 22:02:59 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-01-31 22:02:59 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-31 22:03:02 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-01-31 22:03:04 INFO  TC002_LoginTest - ***** Finished TC_002_LoginTest ******
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-1843253345\testng-customsuite.xml
+
+2026-01-31 23:36:55 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@533377b: 96 ms
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4ae33a11: 27 ms
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@675d8c96: 20 ms
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@ab7a938: 14 ms
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76ba13c: 12 ms
+2026-01-31 23:36:55 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@eb6449b: 0 ms
+2026-01-31 23:37:54 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 23:38:09 INFO  TC004_SearchProductTest - *******Starting TC_004_SearchProductTest *******
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\AppData\Local\Temp\testng-eclipse-940695367\testng-customsuite.xml
+
+2026-01-31 23:39:41 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@533377b: 104 ms
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4ae33a11: 25 ms
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@675d8c96: 17 ms
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@ab7a938: 14 ms
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76ba13c: 10 ms
+2026-01-31 23:39:41 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@eb6449b: 0 ms
+2026-01-31 23:39:46 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 23:39:54 INFO  TC004_SearchProductTest - *******Starting TC_004_SearchProductTest *******
+2026-01-31 23:43:07 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 23:43:12 INFO  TC004_SearchProductTest - *******Starting TC_004_SearchProductTest *******
+2026-01-31 23:43:14 INFO  TC004_SearchProductTest - ****** Finished TC_004_SearchProductTest ******
+2026-01-31 23:45:24 INFO  Utils - [TestNG] Running:
+  C:\Users\Sumit\TutorialsNinja121\master.xml
+
+2026-01-31 23:45:28 INFO  TC004_SearchProductTest - *******Starting TC_004_SearchProductTest *******
+2026-01-31 23:45:29 INFO  TC004_SearchProductTest - ****** Finished TC_004_SearchProductTest ******
