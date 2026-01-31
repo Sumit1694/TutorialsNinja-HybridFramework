@@ -9,3 +9,10 @@
 2026-02-01 01:11:37 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
 2026-02-01 01:11:48 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
 2026-02-01 01:11:59 INFO  TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+2026-02-01 01:26:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2026-02-01 01:26:11 INFO  TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2026-02-01 01:26:11 INFO  TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-01 01:26:12 INFO  TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-01 01:26:12 INFO  TC001_AccountRegistrationTest - Providing customer details
+2026-02-01 01:26:14 INFO  TC001_AccountRegistrationTest - Validation expected message...
+2026-02-01 01:26:14 INFO  TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
